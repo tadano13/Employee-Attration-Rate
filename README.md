@@ -64,7 +64,7 @@ Tadano13 - [GitHub Profile](https://github.com/tadano13)
 
 Project Link: [https://github.com/tadano13/Employee-Attration-Rate](https://github.com/tadano13/Employee-Attration-Rate)
 
-### Additions:
+## Additions:
 
 - **Interactive Streamlit App**: This is the link to streamlit interactive application click on it to test the model.
-- **Link**:[ decision-tree-yiuahwnnkv58vwgnyckwpi.streamlit.app](https://decision-tree-yiuahwnnkv58vwgnyckwpi.streamlit.app)
+- **Link**: https://employee-attration-rate-binuqlf9atrr8baq4rkcr5.streamlit.app
