@@ -63,3 +63,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 Tadano13 - [GitHub Profile](https://github.com/tadano13)
 
 Project Link: [https://github.com/tadano13/Employee-Attration-Rate](https://github.com/tadano13/Employee-Attration-Rate)
+
+### Additions:
+
+- **Interactive Streamlit App**: This is the link to streamlit interactive application click on it to test the model.
+- **Link**:[ decision-tree-yiuahwnnkv58vwgnyckwpi.streamlit.app](https://decision-tree-yiuahwnnkv58vwgnyckwpi.streamlit.app)
